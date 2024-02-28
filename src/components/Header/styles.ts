@@ -37,4 +37,9 @@ export const styles = StyleSheet.create({
     backgroundColor: theme.colors.brand.blue_dark,
     borderRadius: 6,
   },
+
+  inputBorder: {
+    borderWidth: 1,
+    borderColor: theme.colors.brand.purple_dark,
+  },
 });
